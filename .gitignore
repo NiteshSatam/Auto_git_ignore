@@ -1,3 +1,14 @@
+.classpath
+.settings/
+bin/
+.git/.
+.project
+
+
+
+
+
+
 # Compiled class file
 *.class
 
